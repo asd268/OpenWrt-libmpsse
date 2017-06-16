@@ -2,6 +2,9 @@
 
 OpenWrt patch for libmpsse https://code.google.com/p/libmpsse/
 
+OpenWrt-libmpsse install -> lora-feed -> lora_gateway,packet_forwarder
+
+
 ## How To
 
 	cd ~
