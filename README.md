@@ -8,8 +8,7 @@ OpenWrt-libmpsse install -> lora-feed -> lora_gateway,packet_forwarder
 ## How To
 
 	cd ~
-	git clone https://github.com/JiapengLi/OpenWrt-libmpsse.git
-	cd openwrt/trunk
+	git clone https://github.com/asd268/OpenWrt-libmpsse.git
 	./scripts/feeds update -a
 	./scripts/feeds install -a
 	cd feeds/packages
